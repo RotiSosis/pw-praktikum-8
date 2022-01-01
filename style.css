@@ -1,0 +1,46 @@
+* {
+  color: antiquewhite !important;
+}
+
+body {
+  color: antiquewhite !important;
+  background-color: #222222;
+}
+
+.logo {
+  width: 90px;
+  height: 90px;
+}
+
+.logo-sudut {
+  display: flex;
+  justify-content: left;
+}
+
+.nama-logo {
+  margin-top: 23px;
+  margin-left: 20px;
+}
+
+.upper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.magnesium {
+  margin: 10px;
+  padding-top: 20px;
+}
+
+.konten-teks {
+  margin-top: 55px;
+  margin-left: 30px;
+}
+
+#branclet {
+  padding: 70px;
+}
+
+#uranus {
+  padding: 20px;
+}

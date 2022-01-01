@@ -1,0 +1,84 @@
+{
+    "menu":[
+        {
+            "jenis":"Makanan",
+            "nama":"Kebab Ayam",
+            "deskripsi":"kebab dengan mayonais,saus tomat dan daging ayam",
+            "harga":15000, 
+            "estimasi":15,
+            "gambar":"1.jpg"
+        },
+        {
+            "jenis":"Makanan",
+            "nama":"Kebab sapi",
+            "deskripsi":"kebab dengan mayonais,saus tomat dan daging sapi",
+            "harga":15000,
+            "estimasi":15,
+            "gambar":"2.jpg"
+        },
+        {
+            "jenis":"Makanan",
+            "nama":"Kebab kambing",
+            "deskripsi":"kebab dengan mayonais,saus tomat dan daging kambing",
+            "harga":15000,
+            "estimasi":15,
+            "gambar":"3.jpg"
+        },
+        {
+            "jenis":"Makanan",
+            "nama":"Kebab vegan",
+            "deskripsi":"kebab yang isinya daging semua tanpa sayur dan lain lain",
+            "harga":15000,
+            "estimasi":15,
+            "gambar":"4.jpg"
+        },
+        {
+            "jenis":"Makanan",
+            "nama":"Kebab black widow",
+            "deskripsi":"Kebab dengan daging sapi dengan bumbu bbq ala korea",
+            "harga":15000,
+            "estimasi":15,
+            "gambar":"5.jpg"
+        },
+        {
+            "jenis":"Desert",
+            "nama":"Es Krim Nanas",
+            "deskripsi":"Es Krim Rasa Nanas dengan sparkles dan saus kacang",
+            "harga":8000,
+            "estimasi":3,
+            "gambar":"6.jpg"
+        },
+        {
+            "jenis":"Desert",
+            "nama":"Es Krim Mukacino",
+            "deskripsi":"Es Krim Rasa Mokachino dengan sparkles dan saus kacang",
+            "harga":8000,
+            "estimasi":3,
+            "gambar":"7.jpg"
+        },
+        {
+            "jenis":"Minuman",
+            "nama":"Coca Cola",
+            "deskripsi":"Minuman Rasa Stoberi temannya Sprite",
+            "harga":5000,
+            "estimasi":0,
+            "gambar":"8.jpg"
+        },
+        {
+            "jenis":"Minuman",
+            "nama":"Sprite",
+            "deskripsi":"Minuman Rasa Melon temannya Coca cola",
+            "harga":5000,
+            "estimasi":0,
+            "gambar":"9.jpg"
+        },
+        {
+            "jenis":"Minuman",
+            "nama":"Air Masak Dalam Botol",
+            "deskripsi":"Cuma air keran dimasak dengan suhu 100C dan ditempatkan dalam botol",
+            "harga":5000,
+            "estimasi":5,
+            "gambar":"10.jpg"
+        } 
+    ]
+}
